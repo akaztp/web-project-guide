@@ -1,0 +1,73 @@
+﻿#[Web Project Guide](readme.md)
+##Features
+
+This section lists of all features and capabilities of a web project.
+
+- Domains
+- Multi-site
+	- Shared pages between sites
+	- Shared content between sites
+- Multi-locale
+	- Domain based or URL path 
+	- Page correspondence between locales
+	- Default locale policy
+- Browser support
+- Page layout type
+	- Static, Adaptive, Liquid, Responsive: check http://www.liquidapsive.com/
+- Mobile version
+	- Different/subset/same contents for different platforms (i.e., smartphone, tablet,  desktop).
+	- With different site, support any time switch from mobile to desktop.
+- High-DPI support
+	- Images available in several sizes
+	- Server feed of correct sized images or client side correct sized image pull
+- Progressive enhancement
+	- Advanced interfaces can fall back to a simpler implementation, content unharmed.
+	- Support for proxy browsers. Example article: http://timkadlec.com/2015/07/understanding-proxy-browsers-architecture/
+- Content Management
+	- Back-office addition of static pages using templates
+	- Content scheduling
+	- Public Previewing
+	- Workflow capabilities
+	- Components configuration, ex: menus, widgets
+	- RSS
+	- Extend the Content Management with custom behavior by pre-programming.
+	- SEO features
+	- HTML Editor degree of freedom
+- External input and output
+	- Consume of web services
+	- Interface with emailing systems
+	- Mail sending
+	- Payment gateways
+	- Comments systems
+	- Data export
+	- Files upload
+	- Forms/surveys
+- Multimedia
+	- Video support with external link and embedding
+	- Video hosting and transcoding
+	- Images gallery, slideshow
+- SEO
+	- Search engine crawlability: full site, partial site, cached site
+	- XML sitemap
+- Internal Search
+	- 404 redirect to search
+- Favicon
+	- Hi-res icons
+- Advertising
+- Social Media
+	- Article social buttons
+	- Article comments from social media
+	- Links to external social media presence
+- Landing Pages
+- E-mailing Pages
+	- Server produced pages for usage by emailing systems. Also serves the "can't see this email" link.
+- Print version
+	- General layout version for printing
+	- Specific print version for certain pages
+- Accessibility
+- Legacy URLs
+- URLs
+	- friendly URLs, automated or custom
+- Analytics
+	- Customize with business logic/data
+- Authentication

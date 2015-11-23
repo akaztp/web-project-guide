@@ -1,0 +1,66 @@
+﻿#[Web Project Guide](readme.md)
+##Development
+
+This section lists the development possible tools, options and aspects to care about.
+
+- Progressive enhancement
+	- Use of feature detection library
+- Web Design, Style guide
+	- HTML/CSS based graphic design vs. traditional graphic design
+	- Usage of SASS/LESS
+	- Usage of a CSS framework
+	- Produce a browsable style guide
+	- Produce an implementation patterns/options guide
+- Client/server frontier
+	- Server produces final pages/HTML
+	- Partial page updates with server produced HTML
+	- Full client-side frontend and logic, consuming server APIs.
+- Client Frameworks
+	- UI components
+	- UI modularization and templating
+	- client side logic, services, dependency injection
+	- client side Entity/Relationship manager
+	- client side file/resource management
+- Server frameworks
+	- Page generation
+	- Business logic
+	- Database
+	- Caching
+	- API services
+	- Scalability, server clustering
+- Development tooling
+	- IDE
+	- Package/library management
+	- JS/CSS lint, minification, bundling
+	- automation
+- Source Control
+	- Control tools
+	- Repository
+- Continuous Integration
+	- Source Workflow
+	- Code review
+	- Building and publishing
+- CDN hosting
+	- Geographical redundancy
+	- Externalize 3rd party files (javascript libraries, fonts)
+- Encryption - HTTPS
+- Functional testing
+	- Automated tests
+	- Browser compatibility
+- UX Testing
+	- Analytics in production based testing
+	- Custom testing procedures/phase
+- Performance testing
+	- External tools for client site speed testing
+	- server tool for sites output speed logging
+	- server tools for resource usage logging
+- Hosting model
+- Deployment model
+- Maintenance model
+	- Maintenance page
+- Server error tracking
+	- Logging
+	- alerting system
+- Documentation
+	- Code reference
+    - functional site map
