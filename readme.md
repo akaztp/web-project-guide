@@ -1,6 +1,6 @@
 ﻿#Web Project Guide
 
-##Welcome
+##Introduction
 
 Welcome to the Web Project Guide.
 
