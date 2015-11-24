@@ -16,7 +16,7 @@ Also, this guide is a work in progress and, I guess, it will always be.
 
 - [Features](features.md)
 - [Development](development.md)
-- Quality
+- [Quality](quality.md)
 - Code
 - Security
 
